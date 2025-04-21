@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,ae as s}from"./chunks/framework.Bk5YkCvX.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"2supervisor.md","filePath":"2supervisor.md"}'),o={name:"2supervisor.md"};function a(_,p,n,i,c,d){return r(),t("div",null,p[0]||(p[0]=[s("",11)]))}const m=e(o,[["render",a]]);export{l as __pageData,m as default};
