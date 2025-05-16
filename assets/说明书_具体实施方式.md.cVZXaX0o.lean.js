@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Dce3_-kh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"说明书/具体实施方式.md","filePath":"说明书/具体实施方式.md"}'),r={name:"说明书/具体实施方式.md"};function o(_,s,c,n,p,d){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
