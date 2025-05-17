@@ -23,7 +23,6 @@ export default defineConfig({
         items: [
           { text: "致导师", link: "/2supervisor" },
           { text: "2025 记录", link: "/2025" },
-          { text: "2026 记录", link: "/2026" },
         ],
       },
     ],
