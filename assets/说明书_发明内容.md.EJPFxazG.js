@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.Dce3_-kh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"说明书/发明内容.md","filePath":"说明书/发明内容.md"}'),r={name:"说明书/发明内容.md"};function o(s,c,n,_,p,d){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
