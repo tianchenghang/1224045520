@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as i,ae as n}from"./chunks/framework.Dce3_-kh.js";const u=JSON.parse('{"title":"1224045520","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),t={name:"README.md"};function r(l,a,p,d,o,h){return i(),e("div",null,a[0]||(a[0]=[n("",6)]))}const b=s(t,[["render",r]]);export{u as __pageData,b as default};
