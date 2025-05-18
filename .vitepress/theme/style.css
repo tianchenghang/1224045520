@@ -1,0 +1,8 @@
+:root {
+  --vp-font-family-base:
+    "Iosevka", "Cascadia Code", "Menlo", "DejaVu Sans Mono", "Sarasa Mono SC",
+    "Yuanti SC", "PingFang SC", "Microsoft YaHei", monospace !important;
+  --vp-font-family-mono:
+    "Iosevka", "Cascadia Code", "Menlo", "DejaVu Sans Mono", "Sarasa Mono SC",
+    "Yuanti SC", "PingFang SC", "Microsoft YaHei", monospace !important;
+}
