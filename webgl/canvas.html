@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canvas</title>
+  <style>
+    .canvasContainer {
+      background: lightpink;
+    }
+  </style>
+</head>
+<body>
+  <canvas class="canvasContainer" width="600" height="600"></canvas>
+  <script>
+    const canvas = document.querySelector('.canvasContainer');
+    const ctx = canvas.getContext('2d');
+    console.log(ctx);
+  </script>
+</body>
+</html>
